@@ -1,4 +1,4 @@
-# The-ultimate-coin-in-the-Mint-to-Logic-ecosystem
+* # The-ultimate-coin-in-the-Mint-to-Logic-ecosystem
 is not a “cryptocurrency.” It is a governed physics object—a continuity‑anchored, lifecycle‑bound unit that expresses the state of the entire SSPS substrate.
 
 ⚠️ PROPRIETARY RIGHTS NOTICE All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
